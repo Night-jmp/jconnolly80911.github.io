@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jconnolly80911's project page
 
 You can use the [editor on GitHub](https://github.com/jconnolly80911/jconnolly80911.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
